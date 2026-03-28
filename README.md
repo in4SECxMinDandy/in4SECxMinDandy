@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Min Dandy</h1>
+<h1 align="center">Hi 👋, I'm Minh Dandy</h1>
 <h3 align="center">💻 Network | Embedded | Security Enthusiast</h3>
 
 ---
