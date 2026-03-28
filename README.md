@@ -17,6 +17,8 @@
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white)
 
 ### ⚙️ Systems & Tools
